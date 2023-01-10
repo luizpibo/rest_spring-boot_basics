@@ -1,4 +1,4 @@
-package br.com.ParametersAndExceptionHandler.NumberConverters;
+package br.com.ParametersAndExceptionHandler.numberConverters;
 
 public class NumberConverter {
 	public static Double convertToDouble(String strNumber) {

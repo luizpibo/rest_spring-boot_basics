@@ -1,13 +1,13 @@
-package br.com.DependencyInjection;
+package br.com.dependency_injection;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DependencyInjection {
+public class Main {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DependencyInjection.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 }

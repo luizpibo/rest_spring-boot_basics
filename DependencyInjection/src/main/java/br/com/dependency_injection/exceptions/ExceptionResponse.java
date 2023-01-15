@@ -1,4 +1,4 @@
-package br.com.DependencyInjection.exceptions;
+package br.com.dependency_injection.exceptions;
 
 import java.io.Serializable;
 import java.util.Date;
